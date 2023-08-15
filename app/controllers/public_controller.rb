@@ -1,4 +1,7 @@
 class PublicController < ApplicationController
-  def index
+  def inde
   end
+
+  def new
+  end  
 end
