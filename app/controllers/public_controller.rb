@@ -1,5 +1,5 @@
 class PublicController < ApplicationController
-  def inde
+  def index
   end
 
   def new
